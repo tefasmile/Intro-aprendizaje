@@ -11,3 +11,7 @@ El comienzo de aprendizaje para aprender git y github para chicas y todo aquel i
 [Usage => como funciona el proyecto]
 
 [Documentación]
+
+[Roadmap]
+
+[Licencia]
